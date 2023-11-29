@@ -1,0 +1,36 @@
+/* body{
+    background-image: url(/self/image/photo.jpeg);
+    background-repeat: no-repeat;
+    background-attachment: scroll;
+    background-size: 90px;
+    background-position: left bottom;
+    margin-left: 104px;
+    /* only body will move not the bg image  */
+
+/* } */ 
+
+body{
+/* When using the shorthand property the order of the property values is:
+
+background-color
+background-image
+background-repeat
+background-attachment */
+/* background-position */
+  background: #ffffff url("/self/image/photo.jpeg") no-repeat right top;
+
+
+
+
+/* The CSS background properties are used to define the background effects for elements.
+
+CSS background properties:
+
+background-color
+background-image
+background-repeat
+background-attachment
+background-position */
+
+
+}

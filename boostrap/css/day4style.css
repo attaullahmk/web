@@ -1,0 +1,12 @@
+img{
+    width: 100px;
+    height: 100px;
+    display: inline-block;
+}
+img{
+    
+    margin: 0 40px;
+}
+.col{
+    border: 2px solid red;
+}

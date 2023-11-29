@@ -1,0 +1,18 @@
+h1{
+    /* color: transparent; */
+    
+    /* color: rgba(0, 233, 234, 0.3); */
+    /* color: hsl(hue, saturation, lightness); */
+    /* hue ; a pure color  */
+    /* tint ; a pure color with just white added */
+    /* shade ; a pure color with just black added  */
+    /* tone ; a pure color with just gery added  */
+    
+}
+.p{
+    color: red;
+}
+.ch{
+    color: green;
+}
+
